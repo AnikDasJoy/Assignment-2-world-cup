@@ -694,7 +694,6 @@ footer ul:nth-child(4) li a {
 }
 
 @media screen and (min-width:1201px) and (max-width: 1400px) {
-
     .match-container {
         margin: 100px 0 100px 0;
         display: flex;
